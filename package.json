@@ -1,0 +1,33 @@
+{
+  "name": "timey",
+  "version": "0.0.1",
+  "description": "A pretty way to convert various times to milliseconds",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ben-bradley/timey"
+  },
+  "keywords": [
+    "milliseconds",
+    "ms",
+    "time",
+    "convert"
+  ],
+  "author": "Ben Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-bradley/timey/issues"
+  },
+  "homepage": "https://github.com/ben-bradley/timey",
+  "devDependencies": {
+    "should": "^4.0.4",
+    "mocha": "^1.21.4"
+  }
+}

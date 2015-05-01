@@ -23,3 +23,8 @@ console.log(ms(10).y);      // => 315360000000
 
 - [Milliseconds](https://github.com/HenrikJoreteg/milliseconds)
 - [jsTime](https://github.com/flesler/jsTime)
+
+## Version
+
+- 0.0.2 - Standardized plural/single/abbrvs
+- 0.0.1 - Initial
